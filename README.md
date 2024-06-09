@@ -6,4 +6,4 @@ How to use -> Extract Sit_Zoo to the projects folder and run.
 
 Link to the old project: https://github.com/BlackCatCode22/midterm-program-Official3Lo
 
-Made in @IntelliJ
+Made in @IntelliJ using Java
