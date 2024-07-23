@@ -1,5 +1,5 @@
 # SIT_Zoo_Program
-This project was made back in Fall 2023 and was made for keeping track of animals that are currently in or traveling to the zoo. Data inputs may vary.
+This project was made back in Fall 2023 and was made for keeping track of animals that are currently in or traveling to the zoo and modifying their data values. Data inputs may vary.
 
 How to use -> Extract Sit_Zoo to the projects folder and run.
 
